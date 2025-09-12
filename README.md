@@ -1,4 +1,4 @@
-# Parakeet Wyoming Wrapper
+# Parakeet-Silero Wyoming Wrapper
 
 A high-performance Wyoming Protocol ASR server combining **NVIDIA Parakeet v3** speech recognition with **Silero VAD** for intelligent voice activity detection. Designed as a drop-in replacement for Faster-Whisper in Home Assistant voice pipelines.
 
