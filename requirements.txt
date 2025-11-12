@@ -27,6 +27,7 @@ nemo-toolkit[asr]>=1.18.0
 faster-whisper>=0.9.0
 
 # Optional: ONNX Runtime (for optimized VAD)
+onnx==1.18.0
 onnxruntime>=1.15.0
 
 # Optional: ONNX Runtime GPU (if you have NVIDIA GPU and want VAD on GPU)
